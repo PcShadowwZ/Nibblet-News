@@ -1,5 +1,5 @@
 # Nibblet-News
-A-level NEA project. No source code provided due to fears of reprocussions lol. Has pictures to show that it exists.
+A-level NEA project. No source code will be provided. Has pictures to show that it exists.
 
 # What does it do?
 Its a program to find and display articles from google news depending on certain topics. It was coded with python and used the tkinter library for the ui since my computer science teacher taught us to especially use if for our project, and it provided a special challege to make it look good and functional. I also used python sockets to network messages from client to a server which holds a database and verification for accounts. Attepting to use sockets and tkinter at the same time was a challenge due to how tkinter hijacks the main thread leading to the need to use threading.
